@@ -1,0 +1,8 @@
+[package]
+name = "asym_enc"
+version = "0.1.0"
+authors = ["Ravi Shankar <wafflespeanut@gmail.com>"]
+
+[dependencies]
+clap = "2.2"
+openssl = "0.9"
